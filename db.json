@@ -6,7 +6,7 @@
       "autor": "Gabriel García Márquez",
       "categoria": "Novela",
       "descripcion": "Una obra maestra del realismo mágico latinoamericano.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": "2",
@@ -25,7 +25,5 @@
       "publicado": false
     }
   ],
-  "$schema": [
-    "./node_modules/json-server/schema.json"
-  ]
+  "$schema": "./node_modules/json-server/schema.json"
 }
